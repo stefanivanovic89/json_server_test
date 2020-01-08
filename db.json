@@ -1,8 +1,8 @@
-[{"sifrob":"1000","naziv_artikla":"West Blue 100","jed_mere":"KOM","poreska_krupa":"20","tip_robe":"ZDAS","grupa_robe":"Cigare","Alt_cena":130.30,"Alt_pak":"PAK","Status": true},
-{"sifrob":"2012","naziv_artikla":"Coko bananica","jed_mere":"KOM","poreska_krupa":"5","tip_robe":"ZDAS","grupa_robe":"Coko banane","Alt_cena":4.30,"Alt_pak":"PAK","Status": false},
-{"sifrob":"2234","naziv_artikla":"Coca cola 0.5","jed_mere":"KG","poreska_krupa":"0","tip_robe":"ZDAS","grupa_robe":"Sokovi","Alt_cena":33.30,"Alt_pak":"PAK","Status": true},
-{"sifrob":"2321","naziv_artikla":"Parking","jed_mere":"KOM","poreska_krupa":"10","tip_robe":"ZDIE","grupa_robe":"Usluge","Alt_cena":44.30,"Alt_pak":"KOM","Status": true},
-{"sifrob":"34534","naziv_artikla":"Casa","jed_mere":"KOM","poreska_krupa":"20","tip_robe":"ZDAS","grupa_robe":"Cigare","Alt_cena":130.30,"Alt_pak":"PAK","Status": false},
-{"sifrob":"235012","naziv_artikla":"Fanta 0.5","jed_mere":"KOM","poreska_krupa":"5","tip_robe":"ZDAS","grupa_robe":"Coko banane","Alt_cena":4.30,"Alt_pak":"PAK","Status": false},
-{"sifrob":"2254334","naziv_artikla":"Svecice 5w","jed_mere":"KG","poreska_krupa":"0","tip_robe":"ZDAS","grupa_robe":"Sokovi","Alt_cena":33.30,"Alt_pak":"PAK","Status": true},
-{"sifrob":"34","naziv_artikla":"USB 2.0 8gb","jed_mere":"KOM","poreska_krupa":"10","tip_robe":"ZDIE","grupa_robe":"Usluge","Alt_cena":44.30,"Alt_pak":"KOM","Status": true}]
+[{"sifrob":"1000","naziv_artikla":"West Blue 100","jed_mere":"KOM","poreska_krupa":"20"},
+{"sifrob":"2012","naziv_artikla":"Coko bananica","jed_mere":"KOM","poreska_krupa":"5"},
+{"sifrob":"2234","naziv_artikla":"Coca cola 0.5","jed_mere":"KG","poreska_krupa":"0"},
+{"sifrob":"2321","naziv_artikla":"Parking","jed_mere":"KOM","poreska_krupa":"10"},
+{"sifrob":"34534","naziv_artikla":"Casa","jed_mere":"KOM","poreska_krupa":"20"},
+{"sifrob":"235012","naziv_artikla":"Fanta 0.5","jed_mere":"KOM","poreska_krupa":"5"},
+{"sifrob":"2254334","naziv_artikla":"Svecice 5w","jed_mere":"KG","poreska_krupa":"0"},
+{"sifrob":"34","naziv_artikla":"USB 2.0 8gb","jed_mere":"KOM","poreska_krupa":"10"}]
